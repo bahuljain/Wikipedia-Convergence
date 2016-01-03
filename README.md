@@ -1,5 +1,7 @@
 #Wikipedia Convergence
 
+still work in progress..
+
 A friend of mine told me about this interesting observation about Wikipedia pages. If we start from any wikipedia page and follow the first link that appears in the contents of that page we will eventually reach the "Philosophy" page of wikipedia. If a link has been already visited in the process we ignore that link and go to the immediate next link in the contents of the page.
 
 For eg. If we start from the Literature page of Wikipedia, we get the following series of pages...<br>
