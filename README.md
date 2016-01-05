@@ -19,7 +19,7 @@ We will always eventually reach the Philosophy page.
 
 Given a particular wikipedia page, this small application automatically navigates through all the wikipedia pages according to the method given above till it reaches the Philosophy page. 
 
-I know this application is quite useless but I wanted to practice coding in node.js and this seemed like a perfect mini-project i could work on!
+I know this application is quite useless but I wanted to practice coding in node.js and this seemed like a perfect mini-project i could work on! :-)
 
 <b>Server</b>: [node.js](https://github.com/nodejs/node)<br>
 <b>HTML Parsing</b>: [cheerio](https://github.com/cheeriojs/cheerio)
